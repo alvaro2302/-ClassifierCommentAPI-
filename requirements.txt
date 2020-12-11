@@ -9,5 +9,4 @@ python-decouple==3.3
 six==1.11.0
 typing==3.6.4
 Werkzeug==1.0.1
-wxPython==4.0.4a1.dev4008+1fa39084
-wxPython-common==3.0.2.0
+
